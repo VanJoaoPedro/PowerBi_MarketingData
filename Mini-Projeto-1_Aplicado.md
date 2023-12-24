@@ -42,13 +42,13 @@ Uma grande loja está planejando uma liquidação de fim de ano. Com isso, vou u
 
 ## Iniciando o projeto: Visão do Cliente
 
-<img src="../_resources/Screenshot%202023-10-22%20004348.png" alt="Screenshot 2023-10-22 004348.png" class="jop-noMdConv">
+![Painel_1.png](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/Painel_1.png)
 
 > O primeiro painel elaborado durante o curso teve como propósito analisar os clientes, identificando onde realizaram suas compras e compreendendo seu comportamento com base na escolaridade e no estado civil.
 
 ### Os cartões
 
-![Screenshot 2023-12-01 231855.png](../_resources/Screenshot%202023-12-01%20231855.png)
+![cartoes](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/Cartoes.png)
 
 > O objetivo dos cartões é transmitir informações de maneira simples. Com eles, é possível concluir:
 
@@ -60,7 +60,7 @@ Uma grande loja está planejando uma liquidação de fim de ano. Com isso, vou u
 
 ### Gráficos de barras
 
-![Screenshot 2023-12-01 233240.png](../_resources/Screenshot%202023-12-01%20233240.png)
+![Grafico de barras](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/grafico_barras.png)
 
 > Os gráficos de barras são uma das visualizações mais versáteis, representando dados quantitativos por meio de barras retangulares. Com esses gráficos, é notável que os dados apresentam alguns problemas que precisarão de correção.
 
@@ -87,7 +87,7 @@ Uma grande loja está planejando uma liquidação de fim de ano. Com isso, vou u
 
 ### Após o tratamento dos dados, o resultado é:
 
-![Screenshot 2023-12-07 000817.png](../_resources/Screenshot%202023-12-07%20000817.png)
+![Grafico de barras 2](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/grafico_barras_2.png)
 
 > Com base nos gráficos, é evidente que tanto a escolaridade quanto o estado civil exercem influência nas decisões de compra, quanto analisados de forma isolada:
 
@@ -99,19 +99,19 @@ Uma grande loja está planejando uma liquidação de fim de ano. Com isso, vou u
 
 > A última representação gráfica no primeiro painel do curso é a filtragem por país. Contudo, como essa coluna não está presente na base de dados atual, o filtro foi substituído por uma linha do tempo
 
-![Screenshot 2023-12-07 004256.png](../_resources/Screenshot%202023-12-07%20004256.png)
+![linha do tempo](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/linha_tempo.png)
 
 > A linha do tempo tem como objetivo observar a distribuição dos dados ao longo do tempo, permitindo a identificação de eventuais mudanças nos padrões dos clientes.
 
 ### Primeiro Dashboard finalizado:
 
-[Visao_Cliente.mp4](../_resources/Visao_Cliente.mp4)
+![Visao_Cliente](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/Visao_cliente.gif)
 
 * * *
 
 ## Visão Comportamento:
 
-![Screenshot 2023-11-03 095202.png](../_resources/Screenshot%202023-11-03%20095202.png)
+![Painel 2](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/Painel_2.png)
 
 > O objetivo do segundo painel é dar uma olhada em como os clientes gastam. Para fazer isso, o primeiro passo é criar a medida "TotalGasto", que é a soma de tudo que os clientes compram.
 
@@ -121,20 +121,20 @@ Uma grande loja está planejando uma liquidação de fim de ano. Com isso, vou u
 
 ### Gráfico de Dispersão
 
-![Screenshot 2023-12-08 005826.png](../_resources/Screenshot%202023-12-08%20005826.png)
+![Grafico de dispersão](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/grafico_dispersao.png)
 
 > O propósito do gráfico de dispersão é apresentar a relação entre duas variáveis contínuas, sendo útil para identificar padrões, tendências, correlações ou mesmo outliers nos dados. Vale ressaltar que esse gráfico contém um outlier significativo que dificulta a visualização.   
 > A forma mais simples e formal de corrigir esse outlier é removê-lo dos dados.
 
 ### Após corrigir o outlier, o resultado é:
 
-![Screenshot 2023-12-08 011828.png](../_resources/Screenshot%202023-12-08%20011828.png)
+![Grafico de dispersão 2](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/grafico_dispersao_2.png)
 
 > Com este gráfico, é evidente que a correlação entre os gastos dos clientes e o salário anual é positiva, indicando que à medida que a renda aumenta, os gastos também tendem a aumentar.
 
 ### Árvore Hierárquica
 
-![Screenshot 2023-12-08 013355.png](../_resources/Screenshot%202023-12-08%20013355.png)
+![Arvores hierarquica](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/grafico_hieraquico.png)
 
 > O gráfico de Árvore Hierárquica é usado como uma representação visual clara das estruturas hierárquicas ou organizacionais das informações. Com este gráfico, observa-se que:
 
@@ -142,31 +142,33 @@ Uma grande loja está planejando uma liquidação de fim de ano. Com isso, vou u
 
 ### As últimas duas visualizações do segundo painel.
 
-![Screenshot 2023-12-09 221604.png](../_resources/Screenshot%202023-12-09%20221604.png)
+![Grafico de barras 3](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/grafico_barras_3.png)
 
-Essa visualização indica que clientes sem filhos (Crianças e Adolescentes em casa) tendem a ter um gasto maior em comparação com aqueles que têm filhos.
+> Essa visualização indica que clientes sem filhos (Crianças e Adolescentes em casa) tendem a ter um gasto maior em comparação com aqueles que têm filhos.
 
 ### Segundo Dashboard concluído:
 
-[Visão_comportamento.mp4](../_resources/Visão_comportamento.mp4)
+![Visão_comportamento](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/Visao_comportamento.gif)
 
 * * *
 
 ## Visão Performance das Campanhas:
 
-![Screenshot 2023-11-07 090813.png](../_resources/Screenshot%202023-11-07%20090813.png)
+![Painel 3](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/Painel_3.png)
+
+> O terceiro painel ilustra o desempenho das campanhas de marketing anteriores. Portanto, as análises serão centradas na coluna "Response"
 
 ### Gráfico de barras com legendas
 
-![Screenshot 2023-12-16 205553.png](../_resources/Screenshot%202023-12-16%20205553.png)
+![Grafico de barras com legendas](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/grafico_barras_legendas.png)
 
 > Na primeira visualização, a coluna "FilhosEmCasa" foi criada somando os valores de "Kidhome" e "Teenhome".
 
 > Observa-se já de início que grande parte dos clientes não aderiu à campanha. Além disso, nota-se que clientes com menos filhos morando com eles são aqueles que tiveram a resposta mais positiva à campanha.
 
-### Gráfico de Circulo:
+### Gráfico de Círculo:
 
-![Screenshot 2023-12-16 210759.png](../_resources/Screenshot%202023-12-16%20210759.png)
+![grafico de circulo](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/grafico_circulo.png)
 
 > Gráficos de Círculo, também conhecidos como gráficos de pizza, têm como objetivo representar a distribuição proporcional de categorias. São úteis para demonstrar como uma quantidade total é dividida em diferentes partes
 
@@ -174,7 +176,7 @@ Essa visualização indica que clientes sem filhos (Crianças e Adolescentes em 
 
 ### Tabelas:
 
-![Screenshot 2023-12-16 221218.png](../_resources/Screenshot%202023-12-16%20221218.png)
+![Tabelas](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/tabelas.png)
 
 > As tabelas são uma forma essencial de apresentar dados de maneira estruturada, sendo bastante compreensíveis para análise e interpretação.
 
@@ -182,34 +184,34 @@ Essa visualização indica que clientes sem filhos (Crianças e Adolescentes em 
 
 ### Ultima vizualização do terceiro painel:
 
-![Screenshot 2023-12-16 224945.png](../_resources/Screenshot%202023-12-16%20224945.png)
+![Grafico de barras 4](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/grafico_barras_4.png)
 
 > É perceptível com este gráfico que, à medida que o cliente possui um salário maior, ele tende a aderir mais à campanha.
 
 ### Terceiro Dashboard concluido:
 
-[VIsão_Capanhas.mp4](../_resources/VIsão_Capanhas.mp4)
+![VIsão_Capanhas](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/Visao_performance.gif)
 
 * * *
 
 ## Visão Padrões de Compra por Escolaridade e Estado Civil.
 
-![Screenshot 2023-12-17 084558.png](../_resources/Screenshot%202023-12-17%20084558.png)
+![Painel 4](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/Painel_4.png)
 
 > Nos dados utilizados no projeto, não há a coluna 'País', portanto, ele será um pouco diferente do original.
 
 ### Grafico de colunas agrupadas e linha:
 
-![Screenshot 2023-12-17 083210.png](../_resources/Screenshot%202023-12-17%20083210.png)
+![Grafico de colunas agrupadas](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/grafico_colunas_agrupadas.png)
 
 > São gráficos que exibem muita informação, mas são úteis em apresentações e análises de dados, fornecendo insights visuais de maneira eficaz e compreensível. No entanto, seu uso depende dos objetivos específicos das análises.
 
 > Carnes e vinhos representam os principais gastos dos clientes, sendo que aqueles que são casados ou estão em união com alguém tendem a gastar mais em todos os tipos de produtos do que os demais clientes.
 
-![Screenshot 2023-12-17 093034.png](../_resources/Screenshot%202023-12-17%20093034.png)
+![Grafico de colunas agrupadas 2](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/grafico_colunas_agrupadas_2.png)
 
 > A mesma tendência se repete, onde pessoas com diploma de nível superior são as que mais gastam; em seguida, vêm os outros níveis educacionais.
 
 ### Ultimo painel concluido:
 
-[Padroes_de_compra.mp4](../_resources/Padroes_de_compra.mp4)
+![Padroes_de_compra](https://github.com/VanJoaoPedro/PowerBi_MarketingData/blob/main/Arquivos/Visao_padrao_compras.gif)
